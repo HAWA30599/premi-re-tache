@@ -1,0 +1,116 @@
+html{
+	font-size: 62.5%;
+}
+  body{
+  	margin: 0 auto;
+  	width: 1700px;
+  }
+  .header{
+  	  background-color: pink;
+  	  height: 53px; 
+  	  margin:0;
+  }
+  .logo_image{
+  	  width: 110px;
+  	  margin: 0;
+  	  float: left;
+  	  height: 50px;
+  }
+  
+   ul li{
+  	list-style-type: none;
+  	float: left;
+  	font-size: 20px;
+  	float: right;
+  	width: auto;
+  }
+a{
+	color: white;
+  	text-decoration: none;
+  	display: block;
+  	padding: 15px;
+ }
+ a:hover{
+ 	text-decoration: underline;
+ }
+.Aplan{
+	width: 1700px;
+	margin-top: 0;
+
+}
+	.clearfix{
+		margin-top: 10px;
+	}
+.side_menu {
+	     width: 300px;
+	     float:left;
+}
+.side_menu li{
+	background-color: pink;
+	height: 6rem;
+	margin-bottom:10px;
+	width: 300px;
+}
+.side_menu li a{
+	  font-size: 2rem;
+	  color: white;
+	  text-decoration: none;
+	  display: block;
+	  padding: 2rem;
+}
+.side_menu li a:hover{
+	 background-color:lightpink;
+}
+#pied{
+	background-color: black;
+	height: 70px;
+    margin-top: 410px;
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+}
+
+
+.content{
+	float: right;
+	width: 660px;
+}
+tr{margin-bottom:20px;
+	margin-top: 20px;
+	font-size: 19px;
+	display: block;
+
+}
+.long {
+    width: 480px;
+}
+#cont{
+	  height: 7rem;
+	  width: 150px;
+}
+#send{
+	height: 35px;
+	width: 13%;
+	text-align: center;
+	margin-left: 250px;
+	background-color:green ;
+	font-size: 20px;
+	border: white;
+}
+#send:hover{
+	   background-color:lightgreen;
+}
+#dchamp{
+	width: 150px;
+	height: 7rem;
+	display: ruby-base-container;
+}
+.long1{
+	 width: 480px;
+     height: 7rem;
+}
+form{
+	display: block;
+	line-height: 30px;
+	border: white;
+}
